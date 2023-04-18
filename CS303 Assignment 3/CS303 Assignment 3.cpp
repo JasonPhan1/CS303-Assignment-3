@@ -1,3 +1,6 @@
+// Name: Jason Phan
+// Class: CS303
+// Assignment 3
 #include <string>
 #include <iostream>
 #include "stack.h"
